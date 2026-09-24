@@ -27,7 +27,7 @@ Working with real-world data often means dealing with duplicates, inconsistent f
 
 
 ## _**Repository Structure**_
-
+text
 ├── data/
 │   ├── raw_layoffs.csv         # Original raw dataset
 │   └── layoffs_cleaned.csv     # Cleaned dataset exported after SQL transformation
