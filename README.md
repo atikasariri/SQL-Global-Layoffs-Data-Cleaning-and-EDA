@@ -7,7 +7,7 @@ This project presents a complete end-to-end SQL analysis on global tech layoff t
 > *End-to-end MySQL project performing data cleaning and exploratory data analysis (EDA) on global tech layoffs using CTEs, Window Functions, and aggregations.*
 
 
-## _**What This Project Does** _
+## _**What This Project Does**_
 
 Working with real-world data often means dealing with duplicates, inconsistent formatting, missing values, and messy dates. This repository is split into two major parts:
 
