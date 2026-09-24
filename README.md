@@ -27,7 +27,7 @@ Working with real-world data often means dealing with duplicates, inconsistent f
 
 
 ## _**Repository Structure**_
-text
+```text
 ├── data/
 │   ├── raw_layoffs.csv         # Original raw dataset
 │   └── layoffs_cleaned.csv     # Cleaned dataset exported after SQL transformation
@@ -35,7 +35,7 @@ text
 │   ├── 01_data_cleaning.sql    # Complete SQL script for data prep & cleaning
 │   └── 02_eda_layoffs.sql      # SQL script for business insights and exploratory analysis
 └── README.md                   # Project documentation
-
+```
 
 ## _**Step-by-Step Data Cleaning Process**_
 
